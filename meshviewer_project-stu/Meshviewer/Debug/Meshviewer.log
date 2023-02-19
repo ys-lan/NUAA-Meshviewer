@@ -1,0 +1,47 @@
+﻿  meshviewer.cpp
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(258,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(255,43): message : 在编译 类 模板 成员函数“void MeshN::ExKernelT<MeshN::ExItems>::output_to_file(void)”时
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\MeshInterface.h(83,21): message : 查看对正在编译的函数 模板 实例化“void MeshN::ExKernelT<MeshN::ExItems>::output_to_file(void)”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\MeshInterface.h(30,9): message : 查看对正在编译的 类 模板 实例化“MeshN::ExKernelT<MeshN::ExItems>”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\read_write\read_write.cpp(24,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\read_write\read_write.cpp(16,62): message : 在编译 类 模板 成员函数“bool MeshN::ReaderWriterT<MyMesh>::off_reader(const char *)”时
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\MeshInterface.h(42,19): message : 查看对正在编译的函数 模板 实例化“bool MeshN::ReaderWriterT<MyMesh>::off_reader(const char *)”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\MeshInterface.h(31,21): message : 查看对正在编译的 类 模板 实例化“MeshN::ReaderWriterT<MyMesh>”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\read_write\read_write.cpp(36,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\read_write\read_write.cpp(43,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\read_write\read_write.cpp(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\read_write\read_write.cpp(57,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(595,18): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(556,44): message : 在编译 类 模板 成员函数“void MeshN::ExKernelT<MeshN::ExItems>::adjustFaceNormal_FE(void)”时
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(640,23): message : 查看对正在编译的函数 模板 实例化“void MeshN::ExKernelT<MeshN::ExItems>::adjustFaceNormal_FE(void)”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(10,33): message : 在编译 类 模板 成员函数“MeshN::ExKernelT<MeshN::ExItems>::ExKernelT(void)”时
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\MeshInterface.h(30,9): message : 查看对正在编译的函数 模板 实例化“MeshN::ExKernelT<MeshN::ExItems>::ExKernelT(void)”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(597,13): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(606,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(733,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(691,52): message : 在编译 类 模板 成员函数“void MeshN::ExKernelT<MeshN::ExItems>::adjustFaceNormal_YouyiZheng(void)”时
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(770,31): message : 查看对正在编译的函数 模板 实例化“void MeshN::ExKernelT<MeshN::ExItems>::adjustFaceNormal_YouyiZheng(void)”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(694,10): warning C4101: “MinSigmaS”: 未引用的局部变量
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(236,18): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(212,90): message : 在编译 类 模板 成员函数“void MeshN::ExKernelT<MeshN::ExItems>::getNeighborFaceN2(MeshN::InternalHandles::FacetHandle &,std::vector<MeshN::InternalHandles::FacetHandle,std::allocator<MeshN::InternalHandles::FacetHandle>> &)”时
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(728,23): message : 查看对正在编译的函数 模板 实例化“void MeshN::ExKernelT<MeshN::ExItems>::getNeighborFaceN2(MeshN::InternalHandles::FacetHandle &,std::vector<MeshN::InternalHandles::FacetHandle,std::allocator<MeshN::InternalHandles::FacetHandle>> &)”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(297,54): message : 在编译 类 模板 成员函数“MathN::Vector3T<float> MeshN::ExKernelT<MeshN::ExItems>::normal(const MeshN::InternalHandles::FacetHandle &)”时
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\read_write\read_write.cpp(92,17): message : 查看对正在编译的函数 模板 实例化“MathN::Vector3T<float> MeshN::ExKernelT<MeshN::ExItems>::normal(const MeshN::InternalHandles::FacetHandle &)”的引用
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\extension\ExKernelT.cpp(241,12): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\core\KernelT.cpp(707,4): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\core\KernelT.cpp(706,79): message : 在编译 类 模板 成员函数“MeshN::InternalHandles::HalfedgeHandle MeshN::KernelT<ExItems>::_find_halfedge_handle(const MeshN::InternalHandles::VertexHandle &,const MeshN::InternalHandles::VertexHandle &)”时
+          with
+          [
+              ExItems=MeshN::ExItems
+          ]
+C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Meshviewer\mesh\core\KernelT.cpp(573,25): message : 查看对正在编译的函数 模板 实例化“MeshN::InternalHandles::HalfedgeHandle MeshN::KernelT<ExItems>::_find_halfedge_handle(const MeshN::InternalHandles::VertexHandle &,const MeshN::InternalHandles::VertexHandle &)”的引用
+          with
+          [
+              ExItems=MeshN::ExItems
+          ]
+  BaseHandle.cpp
+  KernelT.cpp
+  ExKernelT.cpp
+  read_write.cpp
+  正在生成代码...
+  Meshviewer.vcxproj -> C:\Users\15332\Desktop\final_projecct2022\meshviewer_project-stu\Debug\Meshviewer.exe
